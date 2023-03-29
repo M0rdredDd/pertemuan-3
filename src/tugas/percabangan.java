@@ -8,7 +8,7 @@ public class percabangan {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader
                 (System.in));
-//        int usia=0;
+        int usia;
 //        System.out.print("masukkan usia anda ; ");
 //        usia= Integer.parseInt(br.readLine());
 //        if (usia >= 17) {
